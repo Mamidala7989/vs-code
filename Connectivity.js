@@ -2,7 +2,7 @@ const MongoClient = require('mongodb').MongoClient;//importing mongodb connector
 //const url = 'mongodb://localhost:27017'; //call the URL from MongoDB with port number
 const url = 'mongodb://127.0.0.1:27017';
 const dbName = 'SRIT_STUDENTS';//CALLING DATABASE
-
+//My great friend name is srinija
 async function run() {
     let client;
 
